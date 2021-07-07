@@ -1,0 +1,8 @@
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\Settings.job
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\BotTelegram.exe
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\BotTelegram.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\BotTelegram.deps.json
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\BotTelegram.runtimeconfig.json
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\BotTelegram.pdb
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\Newtonsoft.Json.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotTelegram\Telegram.Bot.dll

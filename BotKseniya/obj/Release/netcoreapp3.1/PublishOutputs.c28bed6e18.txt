@@ -1,0 +1,7 @@
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\Settings.job
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\BotKseniya.exe
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\BotKseniya.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\BotKseniya.deps.json
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\BotKseniya.runtimeconfig.json
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\BotKseniya.pdb
+C:\Users\Ксения\source\repos\BotTelegram\BotKseniya\obj\Release\netcoreapp3.1\PubTmp\Out\app_data\Jobs\Triggered\BotKseniya\Newtonsoft.Json.dll

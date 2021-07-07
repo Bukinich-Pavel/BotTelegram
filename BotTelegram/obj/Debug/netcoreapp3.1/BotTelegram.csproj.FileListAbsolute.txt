@@ -1,0 +1,17 @@
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\BotTelegram.exe
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\BotTelegram.deps.json
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\BotTelegram.runtimeconfig.json
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\BotTelegram.runtimeconfig.dev.json
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\BotTelegram.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\BotTelegram.pdb
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.csprojAssemblyReference.cache
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.AssemblyInfoInputs.cache
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.AssemblyInfo.cs
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.csproj.CoreCompileInputs.cache
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.csproj.CopyComplete
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.dll
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.pdb
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\obj\Debug\netcoreapp3.1\BotTelegram.genruntimeconfig.cache
+C:\Users\Ксения\source\repos\BotTelegram\BotTelegram\bin\Debug\netcoreapp3.1\Settings.job
